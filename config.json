@@ -1,40 +1,40 @@
 {
   "public": {
     "default": {
-      "commerce-core-endpoint": "https://www.aemshop.net/graphql",
-      "commerce-endpoint": "https://www.aemshop.net/cs-graphql",
-      "commerce-assets-enabled": false,
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/X7n3qxpGBFoe8ZQyh7J8R4/graphql",
       "headers": {
         "all": {
           "Store": "default"
         },
         "cs": {
-          "Magento-Store-Code": "main_website_store",
-          "Magento-Store-View-Code": "default",
-          "Magento-Website-Code": "base",
-          "x-api-key": "4dfa19c9fe6f4cccade55cc5b3da94f7",
-          "Magento-Environment-Id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a"
+          "Magento-Store-Code": "LGE_demo",
+          "Magento-Store-View-Code": "LGE_demo",
+          "Magento-Website-Code": "LGE_demo"
         }
       },
+      "commerce-b2b-enabled": false,
+      "commerce-companies-enabled": false,
+      "commerce-assets-enabled": true,
+      "adobe-commerce-optimizer": false,
       "analytics": {
         "base-currency-code": "USD",
         "environment": "Testing",
-        "environment-id": "f38a0de0-764b-41fa-bd2c-5bc2f3c7b39a",
-        "store-code": "main_website_store",
-        "store-id": 1,
-        "store-name": "Main Website Store",
-        "store-url": "https://www.aemshop.net",
-        "store-view-code": "default",
-        "store-view-id": 1,
-        "store-view-name": "Default Store View",
-        "website-code": "base",
-        "website-id": 1,
-        "website-name": "Main Website"
+        "environment-id": "X7n3qxpGBFoe8ZQyh7J8R4",
+        "store-code": "LGE_demo",
+        "store-id": "LGE_demo",
+        "store-name": "LGE_demo",
+        "store-url": "https://coresaas-subgraph-external:8000/X7n3qxpGBFoe8ZQyh7J8R4/",
+        "store-view-code": "LGE_demo",
+        "store-view-id": "LGE_demo",
+        "store-view-name": "LGE_demo",
+        "website-code": "LGE_demo",
+        "website-id": "LGE_demo",
+        "website-name": "LGE_demo"
       },
       "plugins": {
         "picker": {
-           "rootCategory": "YOUR_ROOT_CATEGORY_ID"
-         }
+          "rootCategory": "2"
+        }
       }
     }
   }
