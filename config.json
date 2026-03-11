@@ -7,9 +7,9 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Store-Code": "lgedemo",
-          "Magento-Store-View-Code": "lgedemo",
-          "Magento-Website-Code": "lgedemo"
+          "Magento-Store-Code": "citisignal",
+          "Magento-Store-View-Code": "citisignal",
+          "Magento-Website-Code": "citisignal"
         }
       },
       "commerce-b2b-enabled": false,
@@ -20,16 +20,16 @@
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "X7n3qxpGBFoe8ZQyh7J8R4",
-        "store-code": "lgedemo",
-        "store-id": "lgedemo",
-        "store-name": "LGE_demo",
+        "store-code": "citisignal",
+        "store-id": "citisignal",
+        "store-name": "citisignal",
         "store-url": "https://coresaas-subgraph-external:8000/X7n3qxpGBFoe8ZQyh7J8R4/",
-        "store-view-code": "lgedemo",
-        "store-view-id": "lgedemo",
-        "store-view-name": "LGE_demo",
-        "website-code": "lgedemo",
-        "website-id": "lgedemo",
-        "website-name": "LGE_demo"
+        "store-view-code": "citisignal",
+        "store-view-id": "citisignal",
+        "store-view-name": "citisignal",
+        "website-code": "citisignal",
+        "website-id": "citisignal",
+        "website-name": "citisignal"
       },
       "plugins": {
         "picker": {
