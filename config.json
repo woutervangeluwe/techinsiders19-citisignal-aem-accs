@@ -7,9 +7,9 @@
           "Store": "default"
         },
         "cs": {
-          "Magento-Store-Code": "LGE_demo",
-          "Magento-Store-View-Code": "LGE_demo",
-          "Magento-Website-Code": "LGE_demo"
+          "Magento-Store-Code": "lgedemo",
+          "Magento-Store-View-Code": "lgedemo",
+          "Magento-Website-Code": "lgedemo"
         }
       },
       "commerce-b2b-enabled": false,
@@ -20,15 +20,15 @@
         "base-currency-code": "USD",
         "environment": "Testing",
         "environment-id": "X7n3qxpGBFoe8ZQyh7J8R4",
-        "store-code": "LGE_demo",
-        "store-id": "LGE_demo",
+        "store-code": "lgedemo",
+        "store-id": "lgedemo",
         "store-name": "LGE_demo",
         "store-url": "https://coresaas-subgraph-external:8000/X7n3qxpGBFoe8ZQyh7J8R4/",
-        "store-view-code": "LGE_demo",
-        "store-view-id": "LGE_demo",
+        "store-view-code": "lgedemo",
+        "store-view-id": "lgedemo",
         "store-view-name": "LGE_demo",
-        "website-code": "LGE_demo",
-        "website-id": "LGE_demo",
+        "website-code": "lgedemo",
+        "website-id": "lgedemo",
         "website-name": "LGE_demo"
       },
       "plugins": {
